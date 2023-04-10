@@ -46,7 +46,7 @@ int i, d, n, len, f, digit;
 int main(int argc, char *argv[])
 {
 	int result, num1, num2;
-	if (argc < 3 || argc > 3)
+if (argc < 3 || argc > 3;
 	{
 		printf("Error\n");
 		return (1);
